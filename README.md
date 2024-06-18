@@ -1,5 +1,7 @@
 DSA Interview Questions Below are the questions for which we will have the solutions in the repository
 =======================================================================================================
+Date: 17th June 2024
+======================
 Q1) Find the maximum marks from list of tupple?
 Input -> [('amrit',90),('manash',100),('Kumar',80)]
 
@@ -21,3 +23,13 @@ Output: True
 
 Input: [12,13,14]
 Output: False
+
+Date: 18th June 2024
+======================
+Q5) Find majority element from a list in python?
+Majority element is that element which has occured in the list more than len(list)/2 
+
+Input [2,2,2,3,4,6,3,4,3,2,2,2,2,2]
+Output: 2
+
+
