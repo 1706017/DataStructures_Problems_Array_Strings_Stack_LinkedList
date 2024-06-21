@@ -49,7 +49,9 @@ Input : str1 = "amrit"
         str2 = "manash"
 Output: {'a','m'}
 
-
+Q8) Find word count in a string?
+Input: str = "My name is Amrit and Amrit is a good Boy He is a good person also"
+Output: {'My': 1, 'name': 1, 'is': 3, 'Amrit': 2, 'and': 1, 'a': 2, 'good': 2, 'Boy': 1, 'He': 1, 'person': 1, 'also': 1}
 
 
 
