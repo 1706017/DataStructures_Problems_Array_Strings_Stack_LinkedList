@@ -42,6 +42,15 @@ Input [12,13,15,19,89]
 
 Output 19
 
+Date:21st June 2024
+====================
+Q7)Find the common letters between two strings ?
+Input : str1 = "amrit"
+        str2 = "manash"
+Output: {'a','m'}
+
+
+
 
 
 
